@@ -2,16 +2,6 @@ from config import *
 from models import GetData,GetSalary,getemployees
 
 
-id_empleado=0
-nombre=1
-apellido1=2
-apellido2=3
-salario_bruto=6
-Id_centro_de_trabajo = 9
-Id_empresa=7
-empresa=8
-sexo=4
-
 empleadas_mujeres= getemployees('M')
 print("empleadas mujer : ",empleadas_mujeres)
 empleados_hombres= getemployees('H')
