@@ -9,7 +9,7 @@
 
 ## copiar la base de datos csv en  la carpeta data
 - Cambia el nombre la carpeta data_template por data
-- Debes copiar tu base de datos en la carpeta data de tu programa 
+- Debes copiar tu base de datos en la carpeta data de tu programa o copiarla en "tu archivo.csv" y poner el nombre que desees 
 - La base de datos debe tener ";" para separar los campos 
 
 ## archico config_template
